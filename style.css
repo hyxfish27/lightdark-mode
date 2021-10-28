@@ -4,14 +4,14 @@
 確立風格 後續修改方便 */
 
 :root {
-  --primary-color: rgb(102, 32, 32);
-  --primary-variant: #358f32;
-  --secondary-color: #688383;
-  --on-primary: rgb(36, 14, 14);
-  --on-background: rgb(194, 148, 148);
-  --on-background-alt: rgba(33, 83, 102, 0.7);
-  --background: rgb(240, 11, 11);
-  --box-shadow: 0 5px 20px 1px rgba(255, 242, 60, 0.5);
+  --primary-color: rgb(255, 92, 92);
+  --primary-variant: #ff2d2d;
+  --secondary-color: #1b9999;
+  --on-primary: rgb(250, 250, 250);
+  --on-background: rgb(66, 66, 66);
+  --on-background-alt: rgba(66, 66, 66, 0.7);
+  --background: rgb(255, 255, 255);
+  --box-shadow: 0 5px 20px 1px rgba(0, 0, 0, 0.5);
 }
 
 /* Light Mode */
